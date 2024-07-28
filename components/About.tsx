@@ -13,7 +13,7 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            Hello! My name is Ibnu Choldun and I love making things live on the
+            Hello! My name is Agam Jain and I love making things live on the
             internet. My interest in web development started in early 2022 when
             I joined Study Independen Certified Kampus Merdeka program by
             choosing the Frontend and backend Developer path.
